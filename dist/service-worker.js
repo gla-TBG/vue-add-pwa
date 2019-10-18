@@ -1,4 +1,4 @@
-importScripts("precache-manifest.5cc9c8e80bfcc43a13ee4c87d75a24cf.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("precache-manifest.79e49ff61b74ea0ffbb946ad0c0b44d0.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 // 设置相应缓存的名字的前缀和后缀
 workbox.core.setCacheNameDetails({

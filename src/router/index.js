@@ -6,7 +6,7 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/',
+    path: '/vue-add-pwa',
     name: 'home',
     component: Home
   },
